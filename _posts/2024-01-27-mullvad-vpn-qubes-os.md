@@ -2,7 +2,8 @@
 layout: post
 title:  "Mullvad VPN on Qubes OS"
 date:   2024-01-27 23:08:14 +0100
-categories: VPN
+categories: Network
+tags: VPN Wireguard Mullvad Qubes-OS
 ---
 
 ![Tunnel](/assets/tunnel.jpg "Tunnel")
