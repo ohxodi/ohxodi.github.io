@@ -7,7 +7,13 @@ This repository contains necessary files to build [Ohxodi's blog](https://ohxodi
 
 This website is generated with [Jekill](https://jekyllrb.com). As a result, Jekill has to be [installed](https://jekyllrb.com/docs/) before starting the build process locally.
 
-Once the repository has been cloned, you can build the site and make it available on a local server with the following command :
+Once the repository has been cloned, you should install dependencies with :
+
+```bash
+bundle install
+```
+
+You can then build the site and make it available on a local server with the following command :
 
 ```bash
 bundle exec jekyll serve
